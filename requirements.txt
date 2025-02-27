@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+opendartreader
+finance-datareader
+bokeh
